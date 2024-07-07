@@ -1,21 +1,23 @@
 # Market Regime Detection using Machine Learning
 
 ## Description
-This project involves developing a framework for detecting market regime shifts using supervised and unsupervised learning algorithms. The framework includes data collection and preprocessing, implementation of clustering algorithms (e.g., K-Means, DBSCAN), and classification models (e.g., SVM, Random Forest), and visualization of regime shifts and model performance.
+Develop a framework for detecting market regime shifts using supervised and unsupervised learning algorithms.
 
-## Key Features
+### Key Features
 - Data collection and preprocessing from financial APIs.
 - Implementation of clustering algorithms (e.g., K-Means, DBSCAN) and classification models (e.g., SVM, Random Forest).
 - Visualization of regime shifts and model performance.
 
-## Technologies
+### Technologies
 - Python
 - Scikit-Learn
 - Pandas
 - Seaborn
 - Matplotlib
 
-## Installation
-1. Clone the repository
-   ```sh
-   git clone https://github.com/yourusername/Market-Regime-Detection-ML.git
+## Datasets
+
+The dataset used in this project can be found on Kaggle:
+- [Market Regime Detection Dataset](https://www.kaggle.com/datasets/saur3x/market-regime-detection-using-machine-learning)
+
+Make sure to download the dataset and place it in the appropriate directory before running the scripts.
